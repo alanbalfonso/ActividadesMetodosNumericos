@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidencia1", "Evidencia1\Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_trapecio", "Metodo_trapecio\Metodo_trapecio.csproj", "{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_ecuaciones", "Sistema_ecuaciones\Sistema_ecuaciones.csproj", "{746D2DB4-F57A-4F89-8853-85B0A8E1E155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746D2DB4-F57A-4F89-8853-85B0A8E1E155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746D2DB4-F57A-4F89-8853-85B0A8E1E155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746D2DB4-F57A-4F89-8853-85B0A8E1E155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746D2DB4-F57A-4F89-8853-85B0A8E1E155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
