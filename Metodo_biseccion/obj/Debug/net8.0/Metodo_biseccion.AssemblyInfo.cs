@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodo_biseccion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcda9183291200e1aad6675c9a7034d179e4a4a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2933d0ac2498b11beb41edf32db61948c8e5c272")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodo_biseccion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodo_biseccion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
