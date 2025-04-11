@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eliminacion_gauss", "Elimin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidencia1", "Evidencia1\Evidencia1.csproj", "{0C10C32D-F603-441E-9440-1C8ED2DF7026}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_trapecio", "Metodo_trapecio\Metodo_trapecio.csproj", "{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{0C10C32D-F603-441E-9440-1C8ED2DF7026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C10C32D-F603-441E-9440-1C8ED2DF7026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C10C32D-F603-441E-9440-1C8ED2DF7026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6A969B-09A8-4F05-8303-6D7F666E9EA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
