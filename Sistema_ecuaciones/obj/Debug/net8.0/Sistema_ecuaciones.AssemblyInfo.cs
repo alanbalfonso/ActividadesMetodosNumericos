@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema_ecuaciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6ddd51f76c970b53d14e7c7ab34d057fb3369a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f37598467b85a4bbca5cf6dcc34819cc9b3df5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema_ecuaciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema_ecuaciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

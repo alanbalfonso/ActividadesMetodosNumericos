@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_ecuaciones", "Siste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_Newton_Raphson", "Metodo_Newton_Raphson\Metodo_Newton_Raphson.csproj", "{12B56F3A-8741-4C35-AE0A-C45498C2E99A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_secante", "Metodo_secante\Metodo_secante.csproj", "{48BB10CE-4B42-40EF-A3EB-2EFE52D6AA5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{12B56F3A-8741-4C35-AE0A-C45498C2E99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B56F3A-8741-4C35-AE0A-C45498C2E99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B56F3A-8741-4C35-AE0A-C45498C2E99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BB10CE-4B42-40EF-A3EB-2EFE52D6AA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BB10CE-4B42-40EF-A3EB-2EFE52D6AA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BB10CE-4B42-40EF-A3EB-2EFE52D6AA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BB10CE-4B42-40EF-A3EB-2EFE52D6AA5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
