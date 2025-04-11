@@ -1,78 +1,52 @@
-﻿/*
-    Por: Alan Bauza Alfonso
-    Metodo de biseccion
-*/
-using System;
+﻿//Tarea 5 - Biseccion C#
+Console.WriteLine("Tarea 5: Biseccion C#");
+Console.WriteLine("Integrantes del equipo: ");
+Console.WriteLine("Alan Bauza Alfonso.\nÁngel Andrés Hernández Lizardo. \nLuis Enrique Rodríguez Varela." 
+    + "\nArturo Ardura Palacios. \nDilan Rubén Salcedo Rosado.");
 
-class Program
-{
-    /// <summary>
-    /// Funcion f(x)
-    /// </summary>
-    /// <param name="x"></param>
-    /// <returns></returns>
-    static double F(double x)
-    {
-        // Definir la función f(x) aquí
-        return Math.Pow(2 * x, 2) - 5 * x + 1; // Ejemplo: f(x) = x^3 - x - 2
+// Ecuación y = 2x^2 - 5x + 1
+double f(double x) {return 2 * Math.Pow(x, 2.0) + 5 * x - 1; }
+
+//intervalo inicial
+double a = 1;
+double b = 2;
+
+double errorInicial = 0.00001;
+
+//iteraciones maximas
+int n = 1000;
+
+//encabezado de la tabla {numero columna, ancho}
+Console.WriteLine("\n{0,-4} | {1,-8} | {2,-8} | {3,-8} | {4,-10} | {5,-10} | {6,-10} | {7,-10} | {8,-4}",
+                "#", "xi", "xu", "xr", "f(xi)", "f(xu)", "f(xr)", "Error Abs", "Error Rel (%)");
+Console.WriteLine(new string('-', 105));
+
+//calculo punto medio y funciones con terminos distintos
+for (int i = 0; i < n; i++) {
+    double xr = (a + b) / 2;  // punto medio
+    double fXi = f(a);  //funcion con terminos de Xi
+    double fXu = f(b);  //funcion con terminos de Xu
+    double fXr = f(xr); //funcion con terminos de Xr
+
+    // errores absoluto y relativo
+    double errorAbs = Math.Abs(b - a) / 2;
+    double errorRel = errorAbs / Math.Abs(xr) * 100;
+
+    // i = iteracion, a = Xi, b = Xu
+    // {expresion, ancho:formato}
+    Console.WriteLine($"{i + 1,-4} | {a,-8:F6} | {b,-8:F6} | {xr,-8:F6} | {fXi,-10:F6} | {fXu,-10:F6} | {fXr,-10:F6} | {errorAbs,-10:F6} | {errorRel,-4:F2}%");
+
+    //resumen
+    if (Math.Abs(fXr) < errorInicial || errorAbs < errorInicial) {
+        Console.WriteLine($"\nNumero de iteraciones realizadas: {i + 1}");
+        Console.WriteLine($"Raíz aproximada: {xr:F6}");
+        break;
     }
 
-    /// <summary>
-    /// Funcion que calcula el metodo de biseccion
-    /// </summary>
-    /// <param name="xl"></param>
-    /// <param name="xu"></param>
-    /// <param name="es"></param>
-    /// <param name="imax"></param>
-    /// <param name="iter"></param>
-    /// <param name="ea"></param>
-    /// <returns></returns>
-    static double Bisect(double xl, double xu, double es, int imax, out int iter, out double ea)
-    {
-        iter = 0;
-        double xr = 0, xrold;
-        ea = 100; // Inicializar error aproximado
-
-        do
-        {
-            xrold = xr;
-            xr = (xl + xu) / 2;
-            iter++;
-
-            if (xr != 0)
-            {
-                ea = Math.Abs((xr - xrold) / xr) * 100;
-            }
-
-            double test = F(xl) * F(xr);
-
-            if (test < 0)
-            {
-                xu = xr;
-            }
-            else if (test > 0)
-            {
-                xl = xr;
-            }
-            else
-            {
-                ea = 0;
-            }
-        } while (ea >= es && iter < imax);
-
-        return xr;
-    }
-
-    static void Main()
-    {
-        double xl = 0, xu = 1, es = 0.001;
-        int imax = 100, iter;
-        double ea;
-
-        double root = Bisect(xl, xu, es, imax, out iter, out ea);
-
-        Console.WriteLine($"Raíz aproximada: {root}");
-        Console.WriteLine($"Iteraciones: {iter}");
-        Console.WriteLine($"Error aproximado: {ea}%");
+    //reduccion de intervalo (si f(x) cambia de signo significa que hay una raiz en el intervalo)
+    if (fXi * fXr < 0) {
+        b = xr;  //[a, xr]
+    } else {
+        a = xr;  //[xr, b]
     }
 }

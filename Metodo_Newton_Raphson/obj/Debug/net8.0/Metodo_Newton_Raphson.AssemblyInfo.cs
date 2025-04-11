@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodo_Newton_Raphson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2933d0ac2498b11beb41edf32db61948c8e5c272")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6ddd51f76c970b53d14e7c7ab34d057fb3369a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodo_Newton_Raphson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodo_Newton_Raphson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
