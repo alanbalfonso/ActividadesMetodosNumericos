@@ -1,0 +1,15 @@
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\bin\Debug\net8.0\Calculadora_basica.exe
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\bin\Debug\net8.0\Calculadora_basica.deps.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\bin\Debug\net8.0\Calculadora_basica.runtimeconfig.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\bin\Debug\net8.0\Calculadora_basica.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\bin\Debug\net8.0\Calculadora_basica.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.AssemblyInfoInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.AssemblyInfo.cs
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.csproj.CoreCompileInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.sourcelink.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\refint\Calculadora_basica.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\Calculadora_basica.genruntimeconfig.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Calculadora_basica\obj\Debug\net8.0\ref\Calculadora_basica.dll
