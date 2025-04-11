@@ -1,0 +1,15 @@
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\bin\Debug\net8.0\Eliminacion_gauss.exe
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\bin\Debug\net8.0\Eliminacion_gauss.deps.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\bin\Debug\net8.0\Eliminacion_gauss.runtimeconfig.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\bin\Debug\net8.0\Eliminacion_gauss.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\bin\Debug\net8.0\Eliminacion_gauss.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.AssemblyInfoInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.AssemblyInfo.cs
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.csproj.CoreCompileInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.sourcelink.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\refint\Eliminacion_gauss.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\Eliminacion_gauss.genruntimeconfig.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Eliminacion_gauss\obj\Debug\net8.0\ref\Eliminacion_gauss.dll
