@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodo_secante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce4b87fc7c170e68b6b6d8a647da04aa365882c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+797ac9b384d88c30e6d17d38a51fd928c14c6579")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodo_secante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodo_secante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
