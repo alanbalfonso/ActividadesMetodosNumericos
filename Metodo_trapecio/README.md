@@ -9,5 +9,5 @@ funcionDeEquis()
 El método del trapecio utiliza desde su definición esta fórmula:
 
 $$
-\int_{a}^{b}\!f(x)\,dx \approx \frac{h}{2} [f(x_0) + 2\displaystyle\sum_{i=1}^{n-1}f(x_i) + f(x_n)] 
+\int_{a}^{b}f(x)dx \approx \frac{h}{2} [f(x_0) + 2\displaystyle\sum_{i=1}^{n-1}f(x_i) + f(x_n)] 
 $$
