@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodo_rectangulos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f349f26e26eeaf20d0860a10cdd6e4fe85a5e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce63147811489447a5d052a24af894b0b82d9ca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodo_rectangulos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodo_rectangulos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
