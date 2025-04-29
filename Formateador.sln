@@ -23,8 +23,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_secante", "Metodo_se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_rectangulos", "Metodo_rectangulos\Metodo_rectangulos.csproj", "{A9A49D98-12AC-492C-A4B5-CB5FBABDA0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3", "Metodo_Simpson_1\3\3.csproj", "{73F483C9-007B-40C7-A62B-37A8B8553DD0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_Simpson_un_tercio", "Metodo_Simpson_un_tercio\Metodo_Simpson_un_tercio.csproj", "{3872D575-AD5F-4E2A-9855-BC22B1BD19FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo_Runge_Kutta", "Metodo_Runge_Kutta\Metodo_Runge_Kutta.csproj", "{29763355-5AF9-4570-B9CD-7BD767CCA6F1}"
@@ -78,10 +76,6 @@ Global
 		{A9A49D98-12AC-492C-A4B5-CB5FBABDA0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A49D98-12AC-492C-A4B5-CB5FBABDA0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A49D98-12AC-492C-A4B5-CB5FBABDA0B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73F483C9-007B-40C7-A62B-37A8B8553DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73F483C9-007B-40C7-A62B-37A8B8553DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73F483C9-007B-40C7-A62B-37A8B8553DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73F483C9-007B-40C7-A62B-37A8B8553DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3872D575-AD5F-4E2A-9855-BC22B1BD19FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3872D575-AD5F-4E2A-9855-BC22B1BD19FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3872D575-AD5F-4E2A-9855-BC22B1BD19FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
