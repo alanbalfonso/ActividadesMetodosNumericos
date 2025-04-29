@@ -1,0 +1,15 @@
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\bin\Debug\net8.0\Metodo_Runge_Kutta.exe
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\bin\Debug\net8.0\Metodo_Runge_Kutta.deps.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\bin\Debug\net8.0\Metodo_Runge_Kutta.runtimeconfig.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\bin\Debug\net8.0\Metodo_Runge_Kutta.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\bin\Debug\net8.0\Metodo_Runge_Kutta.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.AssemblyInfoInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.AssemblyInfo.cs
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.csproj.CoreCompileInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.sourcelink.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\refint\Metodo_Runge_Kutta.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\Metodo_Runge_Kutta.genruntimeconfig.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_Runge_Kutta\obj\Debug\net8.0\ref\Metodo_Runge_Kutta.dll

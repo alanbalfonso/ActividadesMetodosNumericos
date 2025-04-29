@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eliminacion_gauss")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce63147811489447a5d052a24af894b0b82d9ca1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d002978c5398675f5e1a868b34567d16e9c164c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eliminacion_gauss")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eliminacion_gauss")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
