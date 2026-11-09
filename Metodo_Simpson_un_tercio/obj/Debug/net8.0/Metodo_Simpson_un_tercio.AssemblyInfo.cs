@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metodo_Simpson_un_tercio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22fd927ecc20a5e6d41b39fcbd0b3b1675da8e84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8413db09990fa99f5d283393ad2edf99531749ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metodo_Simpson_un_tercio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metodo_Simpson_un_tercio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

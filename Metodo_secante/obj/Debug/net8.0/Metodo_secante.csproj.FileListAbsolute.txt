@@ -1,0 +1,15 @@
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\bin\Debug\net8.0\Metodo_secante.exe
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\bin\Debug\net8.0\Metodo_secante.deps.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\bin\Debug\net8.0\Metodo_secante.runtimeconfig.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\bin\Debug\net8.0\Metodo_secante.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\bin\Debug\net8.0\Metodo_secante.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.AssemblyInfoInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.AssemblyInfo.cs
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.csproj.CoreCompileInputs.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.sourcelink.json
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\refint\Metodo_secante.dll
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.pdb
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\Metodo_secante.genruntimeconfig.cache
+C:\Users\Alan0\OneDrive\Documentos\Tecmilenio 4to\ActividadesMetodosNumericos\Metodo_secante\obj\Debug\net8.0\ref\Metodo_secante.dll
