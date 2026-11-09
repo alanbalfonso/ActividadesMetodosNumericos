@@ -4,7 +4,7 @@ Repositorio de implementaciones en **C# (.NET 8)** para la materia de **Métodos
 
 Este compendio agrupa programas de consola diseñados para resolver problemas matemáticos fundamentales mediante algoritmos numéricos computacionales: búsqueda de raíces en ecuaciones trascendentes y no lineales, resolución de sistemas de ecuaciones lineales, cuadratura numérica (integración) y solución de ecuaciones diferenciales ordinarias (EDO).
 
-## 👥 Equipo y Colaboradores
+## Equipo y Colaboradores
 
 * **Alan Bauza Alfonso** - [@alanbalfonso](https://github.com/alanbalfonso) (Autor principal)
 * **Ángel Andrés Hernández Lizardo** - [@AngelLizardo-Waggamer](https://github.com/AngelLizardo-Waggamer)
