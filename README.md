@@ -6,7 +6,7 @@ Este compendio agrupa programas de consola diseñados para resolver problemas ma
 
 ## Equipo y Colaboradores
 
-* **Alan Bauza Alfonso** - [@alanbalfonso](https://github.com/alanbalfonso) (Autor principal)
+* **Alan Bauza Alfonso** - [@alanbalfonso](https://github.com/alanbalfonso)
 * **Ángel Andrés Hernández Lizardo** - [@AngelLizardo-Waggamer](https://github.com/AngelLizardo-Waggamer)
 * **Luis Enrique Rodríguez Varela** - [@mrfuzball08](https://github.com/mrfuzball08)
 * **Arturo Ardura Palacios** - [@ArturoArdura](https://github.com/ArturoArdura)
